@@ -15,7 +15,7 @@ O CP 400 Color II tinha um teclado com 59 teclas tipo ASCII incorporado ao gabin
 
 ### Como instalar
 
-:point_right: *As instruções deste documento são exemplificadas para o sistema Linux e partem do pressuposto de que o MAME já esteja instalado.*
+:point_right: *As instruções deste documento estão exemplificadas para o sistema Linux e partem do pressuposto de que o MAME já esteja instalado.*
 
 Copie os arquivos ROM BIOS para os respectivos diretórios, em `/usr/share/mame/roms/`, de acordo com o computador escolhido:
 
@@ -99,9 +99,9 @@ No prompt do CP 400, digite os seguintes comandos para listar o conteúdo de cad
 | Zaxxon | Quix | Goldrun2 |
 | Time Bandit | ColorCar | Shock |
 | Donkey King | Cuber | Junior |
-| Astro-Blast | Lunar Rover |  |
-| Frogger | Trapfall | Mrs Pac |
-| Cashman | Tut's Tomb | Marble Maze |
+| Astro-Blast | Lunar Rover | Mrs Pac |
+| Frogger | Trapfall | Marble Maze |
+| Cashman | Tut's Tomb |  |
 | Galagon | Dinowars |  |
 
 | :four: | :five: | :six: | 

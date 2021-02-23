@@ -10,7 +10,7 @@ O CP 400 Color II tinha um teclado com 59 teclas tipo ASCII incorporado ao gabin
 
 ### Conteúdo deste repositório
 
-:computer: arquivos no formato ROM BIOS, de cada computador;
+:computer: arquivos no formato ROM BIOS, de cada computador;<br />
 :floppy_disk: imagens de disquetes, com alguns jogos.
 
 ### Como instalar
@@ -64,7 +64,7 @@ Copie os arquivos ROM BIOS para os respectivos diretórios, em `/usr/share/mame/
 
 Na janela de execução do MAME, pressione as teclas para:
 
-**Tab**         -> abrir o menu do MAME;
+**Tab**         -> abrir o menu do MAME;<br />
 **Scroll Lock** -> alternar entre modos de emulação.
 
 ### Executando um jogo
@@ -93,57 +93,24 @@ No prompt do CP 400, digite os seguintes comandos para listar o conteúdo de cad
 
 ### Conteúdo dos disquetes
 
- :one:
+| :one: | :two: | :three: | 
+| ----- | ----- | ------- |
+| Pooyan | Joust | Draconia |
+| Zaxxon | Quix | Goldrun2 |
+| Time Bandit | ColorCar | Shock |
+| Donkey King | Cuber | Junior |
+| Astro-Blast | Lunar Rover |  |
+| Frogger | Trapfall | Mrs Pac |
+| Cashman | Tut's Tomb | Marble Maze |
+| Galagon | Dinowars |  |
 
-Pooyan<br />
-Zaxxon<br />
-Time Bandit<br />
-Donkey King<br />
-Astro-Blast<br />
-Frogger<br />
-Cashman<br />
-Galagon
-
- :two:
-
-Joust<br />
-Quix<br />
-ColorCar<br />
-Cuber<br />
-Lunar Rover<br />
-Trapfall<br />
-Tut's Tomb<br />
-Dinowars
-
- :three:
-
-Draconia<br />
-Goldrun2<br />
-Shock<br />
-Junior<br />
-Mrs Pac<br />
-Marble Maze
-
- :four:
-
-Shenanigans<br />
-Trekboer<br />
-Black Sanctun<br />
-Calixto Island<br />
-Seaquest
-
- :five:
-
-Module<br />
-Crash<br />
-Prot<br />
-Vortex Factor
-
- :six:
-
-Gold Runner<br />
-Gold Runner II<br />
-Candy Co
+| :four: | :five: | :six: | 
+| ------ | ------ | ----- |
+| Shenanigans | Module | Gold Runner |
+| Trekboer | Crash | Gold Runner II |
+| Black Sanctun | Prot | Candy Co |
+| Calixto Island | Vortex Factor |  |
+| Seaquest |  |  |
 
 ### Alguns jogos
 
